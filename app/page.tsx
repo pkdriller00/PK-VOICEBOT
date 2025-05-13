@@ -51,7 +51,7 @@ export default function HomePage() {
         >
           <Button
             rel="noopener noreferrer"
-            href="https://ko-fi.com/omar11"
+            href="https://ko-fi.com/Pkdriller"
             target="_blank"
             as={Link}
             isIconOnly
